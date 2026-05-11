@@ -31,4 +31,4 @@ O conjunto de dados apresenta informações detalhadas sobre imóveis para loca�
    git clone https://github.com/ghfreiree/data-cleaning-hospedagens.git
    ```
 ---
-*Desenvolvido com dedicação para aprofundamento em Data Science e análise de dados.*
+*Desenvolvido com dedicação para aprofundamento em Data Science*
