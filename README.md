@@ -28,4 +28,7 @@ O conjunto de dados apresenta informações detalhadas sobre imóveis para loca�
 ## Como Executar
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+   git clone https://github.com/ghfreiree/data-cleaning-hospedagens.git
+   ```
+---
+*Desenvolvido com dedicação para aprofundamento em Data Science e análise de dados.*
