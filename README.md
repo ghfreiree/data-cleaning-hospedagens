@@ -26,7 +26,7 @@ O conjunto de dados apresenta informações detalhadas sobre imóveis para loca�
 * Informações geográficas (foco na região de Seattle/Ballard).
 
 ## Como Executar
-1. Clone o repositório:
+- Clone o repositório:
    ```bash
    git clone https://github.com/ghfreiree/data-cleaning-hospedagens.git
    ```
